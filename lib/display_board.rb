@@ -8,3 +8,4 @@ def display_board(board)
   row_4 = "-----------"
   row_5 = " " + board[6] + " | " + board[7] + " | " + board[8]
 end
+display_board(board)
